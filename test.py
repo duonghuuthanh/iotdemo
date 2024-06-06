@@ -10,3 +10,4 @@ def divide(a, b):
 print(sum(5, 10))
 print(sub(15, 10))
 print(sub(20, 10))
+print(sum(10, 10))
